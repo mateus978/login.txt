@@ -1,2 +1,1 @@
-USER:ZeroTrace
-SENHA:ZeroTrace
+USER:ZeroTrace|SENHA:ZeroTrace
